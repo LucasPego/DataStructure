@@ -5,9 +5,9 @@
 <h3>Trabalho Prático 1 - Labirinto com Stacks<h3>
 Trabalho Prático 2 - Labirinto com Linked Queue
 Trabalho Prático 3 - Implementação Linked List
-TTodos os trabalhos foram desenvolvidos na linguagem de programação Java.
+Todos os trabalhos foram desenvolvidos na linguagem de programação Java.
   
-#Trabalho Prático 1 - Labirinto com Stacks
+# Trabalho Prático 1 - Labirinto com Stacks
 <h6>Este trabalho tem como objetivo implementar um "Maze Solver" com Stacks<h6>
 
 -meu labirinto não funcionou :c-
