@@ -1,4 +1,4 @@
-<h3>**Trabalhos Práticos de Estrutura de Dados**<h3>
+<h3>__Trabalhos Práticos de Estrutura de Dados__<h3>
 <b>
 <h4>Este repositório contém os três trabalhos práticos de programação, desenvolvidos durante o primeiro semestre de 2022:<h4>
 <b>
