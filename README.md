@@ -1,6 +1,6 @@
-<h1>Trabalhos Práticos de Estrutura de Dados<h1>
+<h5>Trabalhos Práticos de Estrutura de Dados<h5>
   <b>
-<h3>Este repositório contém os três trabalhos práticos de programação, desenvolvidos durante o primeiro semestre de 2022:<3>
+<h6>Este repositório contém os três trabalhos práticos de programação, desenvolvidos durante o primeiro semestre de 2022:<h6>
 
 Trabalho Prático 1 - Labirinto com Stacks
 Trabalho Prático 2 - Labirinto com Linked Queue
