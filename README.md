@@ -16,7 +16,7 @@ TTodos os trabalhos foram desenvolvidos na linguagem de programação Java.
 <h5>Trabalho Prático 2 - Labirinto com Linked Queue<h5>
 <h6>Este trabalho tem como objetivo implementar um "Maze Solver" com Linked Queue.<h6>
 Implementamos a Linked Queue no primeiro projeto realizado pelo Rafael, foi quando eu entendi a lógica do labirinto
-![2](https://user-images.githubusercontent.com/80799463/174217760-0df73075-aab9-413d-9a7b-ae6a86bed773.png)
+https://github.com/LucasPego/DataStructure/blob/main/2.png
 Uma outra mudança em relação ao primeiro labirinto é que nesse temos que pressionar a tecla para nos movermos para a direção desejada.
 
 
