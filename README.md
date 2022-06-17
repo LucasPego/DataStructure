@@ -2,7 +2,7 @@
 <b>
 <h5>Este repositório contém os três trabalhos práticos de programação, desenvolvidos durante o primeiro semestre de 2022:<h5>
 <b>
-Trabalho Prático 1 - Labirinto com Stacks
+<h6>Trabalho Prático 1 - Labirinto com Stacks<h6>
 Trabalho Prático 2 - Labirinto com Linked Queue
 Trabalho Prático 3 - Linked List
 TTodos os trabalhos foram desenvolvidos na linguagem de programação Java.
