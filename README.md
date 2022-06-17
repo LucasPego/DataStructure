@@ -1,14 +1,14 @@
-<h3>Trabalhos Práticos de Estrutura de Dados<h3>
+<h2>Trabalhos Práticos de Estrutura de Dados<h2>
 <b>
-<h5>Este repositório contém os três trabalhos práticos de programação, desenvolvidos durante o primeiro semestre de 2022:<h5>
+<h3>Este repositório contém os três trabalhos práticos de programação, desenvolvidos durante o primeiro semestre de 2022:<h3>
 <b>
-<h6>Trabalho Prático 1 - Labirinto com Stacks<h6>
+<h4>Trabalho Prático 1 - Labirinto com Stacks<h4>
 Trabalho Prático 2 - Labirinto com Linked Queue
 Trabalho Prático 3 - Linked List
 TTodos os trabalhos foram desenvolvidos na linguagem de programação Java.
 
-Trabalho Prático 1 - Labirinto com Stacks
-Este trabalho tem como objetivo construir um "Maze Solver" com Stacks
+<h5>Trabalho Prático 1 - Labirinto com Stacks<h5>
+<h6>Este trabalho tem como objetivo construir um "Maze Solver" com Stacks<h6>
 
 
 Ao executar o programa, o usuário deve inserir como entrada uma fórmula com 1 conectivo
@@ -19,7 +19,7 @@ Ao executar o programa, o usuário deve inserir como entrada uma fórmula com 1 
 
 Ao final o programa mostra o resultado da tabela verdade.
 
-Trabalho Prático 2 - Detetive
+<h5>Trabalho Prático 2 - Labirinto com Linked Queue<h5>
 Este trabalho tem como objetivo desenvolver um jogo de detetive que utiliza regras de inferência para deduzir a conclusão.
 
 
